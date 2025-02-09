@@ -32,7 +32,10 @@ The dataset is stored in **Parquet format** due to:
 - **Optimized read & write performance** for Spark
 - **Columnar storage for efficient querying**
 - **Compression benefits** for large-scale data
-
+The data is generated using :
+```bash
+python3 data.py
+```
 ---
 
 ##  **Setup & Installation**
@@ -48,8 +51,6 @@ Ensure the following are installed:
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/ntua-el18860/Analysis-and-Design-of-Information-Systems
-cd adis
-pip install -r requirements.txt
 ```
 ### **3 Start HDFS & Spark Cluster**
 Ensure Hadoop and Spark are running:
@@ -85,3 +86,4 @@ To make prediction you must run :
 python3 prediction.py
 ```
 You can read the predicted data on **predictions.csv**
+
