@@ -1,0 +1,71 @@
+Dataset,Size (GB),Execution Time (s),CPU Usage (%),Memory Usage (MB)
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 32.90 seconds
+💾 Memory Usage Before: 1.35 GB
+💾 Memory Usage After: 1.60 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 31.63 seconds
+💾 Memory Usage Before: 1.35 GB
+💾 Memory Usage After: 1.52 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 32.48 seconds
+💾 Memory Usage Before: 1.29 GB
+💾 Memory Usage After: 1.50 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 30.76 seconds
+💾 Memory Usage Before: 1.42 GB
+💾 Memory Usage After: 1.64 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 31.13 seconds
+💾 Memory Usage Before: 1.39 GB
+💾 Memory Usage After: 1.56 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 36.64 seconds
+💾 Memory Usage Before: 1.36 GB
+💾 Memory Usage After: 1.54 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 35.32 seconds
+💾 Memory Usage Before: 1.33 GB
+💾 Memory Usage After: 1.53 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 71.31 seconds
+💾 Memory Usage Before: 1.33 GB
+💾 Memory Usage After: 1.65 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 38.07 seconds
+💾 Memory Usage Before: 1.36 GB
+💾 Memory Usage After: 1.59 GB
+========================================
+🚀 ETL Process Benchmark
+🔹 Rows Processed: 30000000
+🔹 Columns: 6
+⏳ Execution Time: 68.50 seconds
+💾 Memory Usage Before: 1.46 GB
+💾 Memory Usage After: 1.65 GB
+========================================
