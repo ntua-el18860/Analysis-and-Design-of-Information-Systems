@@ -6,8 +6,8 @@ This project was developed as part of the **Analysis and Design of Information S
 ---
 
 ## **Contributors**
-- **Alexandros Papadakos**
-- **Georgios Vitzilaios**
+- **Alexandros Papadakos**(03118860)
+- **Georgios Vitzilaios**(03116672)
 
 ---
 
