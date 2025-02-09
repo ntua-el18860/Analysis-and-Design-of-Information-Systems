@@ -32,7 +32,9 @@ The dataset is stored in **Parquet format** due to:
 - **Optimized read & write performance** for Spark
 - **Columnar storage for efficient querying**
 - **Compression benefits** for large-scale data
-The data is generated using :
+
+
+-The data is generated using :
 ```bash
 python3 data.py
 ```
