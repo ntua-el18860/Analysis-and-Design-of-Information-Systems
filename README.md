@@ -34,10 +34,12 @@ The dataset is stored in **Parquet format** due to:
 - **Compression benefits** for large-scale data
 
 
--The data is generated using :
+The data is generated using :
 ```bash
 python3 data.py
 ```
+After generating the data , we should upload them to our HDFS filesystem.
+
 ---
 
 ##  **Setup & Installation**
